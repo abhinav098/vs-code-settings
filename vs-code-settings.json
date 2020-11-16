@@ -2,7 +2,7 @@
 {
 	"workbench.colorTheme": "Monokai Dimmed",
 	"workbench.iconTheme": "material-icon-theme",
-	// "files.insertFinalNewline": true,
+	"files.insertFinalNewline": true,
 	"editor.fontFamily": "Monaco",
 	"editor.fontSize": 12,
 	"editor.tabSize": 2,
