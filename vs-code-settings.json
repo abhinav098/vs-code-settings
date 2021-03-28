@@ -31,3 +31,26 @@
 	"explorer.confirmDelete": false,
 	"explorer.confirmDragAndDrop": false
 }
+
+
+Key bindings: 
+
+
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "cmd+K",
+    "command": "workbench.action.terminal.clear",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "cmd+T",
+    "command": "workbench.action.terminal.new",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "cmd+W",
+    "command": "workbench.action.terminal.kill",
+    "when": "terminalFocus"
+  },
+]
